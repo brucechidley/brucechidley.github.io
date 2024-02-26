@@ -4,7 +4,6 @@ description: >
 
  <a href="https://www.linkedin.com/in/bruce-chidley-908659249/"> <img src="/assets/img/LinkedIn_icon_40.png"> </a> 
  <a href="https://github.com/brucechidley"> <img src="/assets/img/github.png" style="height: 41px; width: 40px"> </a> 
- <a href="https://mulab.ai/"> <img src="/assets/img/mu_resized.png" style="height: 38px; width: 35px"> </a>
- 
+ <a href="https://mulab.ai/"> <img src="/assets/img/mu_resized.png" style="height: 38px; width: 35px; margin: 10px 10px 10px 10px"> </a>
 #show_downloads: true
 theme: jekyll-theme-minimal
