@@ -3,6 +3,8 @@ logo: /assets/img/Headshot_circle_191.png
 description: >
 
  <a href="https://www.linkedin.com/in/bruce-chidley-908659249/"> <img src="/assets/img/LinkedIn_icon_40.png"> </a> 
- <a href="https://www.linkedin.com/in/bruce-chidley-908659249/"> <img src="/assets/img/github.png" style="height: 41px; width: 40px"> </a> 
+ <a href="https://github.com/brucechidley"> <img src="/assets/img/github.png" style="height: 41px; width: 40px"> </a> 
+ <a href="https://mulab.ai/"> <img src="/assets/img/mu.png" style="height: 50px; width: 50px"> </a>
+ 
 #show_downloads: true
 theme: jekyll-theme-minimal
