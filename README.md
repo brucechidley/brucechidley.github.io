@@ -2,7 +2,7 @@
 
 ## Education							       		
 - MSc, Computing, AI <br />
-  _Queen's University (September 2023 to Present)_		        		
+  _Queen's University (September 2023 to Present)_	<br />	        		
 - BComp, Computing, Mathematics, and Analytics <br />
   _Queen's University (_May 2023_)_
 
