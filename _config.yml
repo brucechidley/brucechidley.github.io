@@ -9,9 +9,7 @@ description: >
  <br>
  <br>
  
- <font size="7">  
-     bruce.chidley@gmail.com
-</font>  
+  <font size="+2">bruce.chidley@gmail.com</font>
  
 #show_downloads: true
 theme: jekyll-theme-minimal
