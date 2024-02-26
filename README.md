@@ -1,7 +1,8 @@
 # Portfolio
 
 ## Education							       		
-- MSc, Computing, AI	| Queen's University (_September 2023 to Present_)	 			        		
+- MSc, Computing, AI <br />
+  Queen's University (_September 2023 to Present_)	 			        		
 - BComp, Computing, Mathematics, and Analytics | Queen's University (_May 2023_)
 
 ## Work Experience
