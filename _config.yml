@@ -5,7 +5,7 @@ description: >
  <a href="https://www.linkedin.com/in/bruce-chidley-908659249/"> <img src="/assets/img/linkedin.png" style="height: 40px; width: 40px; margin: 0px 5px 0px 0px"> </a> 
  <a href="https://github.com/brucechidley"> <img src="/assets/img/github.png" style="height: 41px; width: 40px; margin: 5px 5px 0px 0px"> </a> 
  <a href="https://mulab.ai/"> <img src="/assets/img/mu_logo.png" style="height: 40px; width: 40px; margin: 10x 10px 0px 0px"> </a>
- <a href="https://www.goodreads.com/user/show/173634421-bruce-chidley"> <img src="/assets/img/goodreads.png" style="height: 40px; width: 40px; margin: 5px 0px 0px 0px"> </a>
+ <a href="https://www.goodreads.com/user/show/173634421-bruce-chidley"> <img src="/assets/img/goodreads_custom.png" style="height: 40px; width: 40px; margin: 5px 0px 0px 0px"> </a>
  
 #show_downloads: true
 theme: jekyll-theme-minimal
