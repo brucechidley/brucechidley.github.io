@@ -2,8 +2,9 @@
 
 ## Education							       		
 - MSc, Computing, AI <br />
-  Queen's University (_September 2023 to Present_)	 			        		
-- BComp, Computing, Mathematics, and Analytics | Queen's University (_May 2023_)
+  _Queen's University (September 2023 to Present)_		        		
+- BComp, Computing, Mathematics, and Analytics <br />
+  _Queen's University (_May 2023_)_
 
 ## Work Experience
 **Business Intelligence Developer @ Toyota Financial Services (_June 2022 - Present_)** <br />
