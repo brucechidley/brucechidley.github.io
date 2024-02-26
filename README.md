@@ -5,7 +5,7 @@
 - BComp, Computing, Mathematics, and Analytics | Queen's University (_May 2023_)
 
 ## Work Experience
-**Business Intelligence Developer @ Toyota Financial Services (_June 2022 - Present_)**
+**Business Intelligence Developer @ Toyota Financial Services (_June 2022 - Present_)** <br />
 _L3Harris WESCAM_
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
