@@ -8,7 +8,10 @@ description: >
  <a href="https://www.goodreads.com/user/show/173634421-bruce-chidley"> <img src="/assets/img/goodreads_custom.png" style="height: 40px; width: 40px; margin: 10px 0px 0px 5px"> </a>
  <br>
  <br>
- bruce.chidley@gmail.com
+ 
+ <font size="7">  
+     bruce.chidley@gmail.com
+</font>  
  
 #show_downloads: true
 theme: jekyll-theme-minimal
