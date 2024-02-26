@@ -1,8 +1,8 @@
 # Portfolio
 
-#### **Technical Languages:** Python, R for Statistical Computing, SQL, T-SQL, NetLogo, RDDL (Automated Planning)
-#### **AI Experience:** Machine Learning, Deep Learning, Statistical Learning, Computer Vision, NLP, Complex Data Analysis
-#### **Other:** Git, Devops, Visual Studio, Microsoft Azure, Power BI, Data Warehousing, Agent-Based Modeling, Epidemiology, SSMS, SSIS, SSRS
+#### Technical Languages: <br /> Python, R for Statistical Computing, SQL, T-SQL, NetLogo, RDDL (Automated Planning)
+#### AI Experience: <br /> Machine Learning, Deep Learning, Statistical Learning, Computer Vision, NLP, Complex Data Analysis
+#### Other: Git, <br /> Devops, Visual Studio, Microsoft Azure, Power BI, Data Warehousing, Agent-Based Modeling, Epidemiology, SSMS, SSIS, SSRS
 
 ## Education							       		
 - MSc, Computing and AI<br />
