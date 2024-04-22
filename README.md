@@ -45,7 +45,7 @@ _McDonald's_ (January 2017 - August 2018)
 
 ### Projects
 
-**Stock Market Prediction** <br />
+<a href="https://www.linkedin.com/in/bruce-chidley-908659249/">**Stock Market Prediction** </a> <br />
 _Machine Learning Algorithms and Twitter Sentiment Analysis_ 
 - Used historical stock data to predict closing prices using a variety of machine learning algorithms
 - Scraped tweets from CEOs of respective companies to see if sentiment could be used as a predictor
