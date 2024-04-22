@@ -1,7 +1,7 @@
 # Portfolio
 
 #### Technical Languages: <br /> Python, R for Statistical Computing, SQL, T-SQL, NetLogo, RDDL (Automated Planning)
-#### AI Experience: <br /> Machine Learning, Deep Learning, Statistical Learning, Computer Vision, NLP, Complex Data Analysis
+#### AI Experience: <br /> Machine Learning, Deep Learning, Statistical Learning, Computer Vision, NLP, Data Analysis, Spark
 #### Other: <br /> Git, Devops, Visual Studio, Microsoft Azure, Power BI, Data Warehousing, Agent-Based Modeling, Epidemiology, SSMS, SSIS, SSRS
 
 ## Education							       		
@@ -28,7 +28,7 @@ optimization
 - Reports and data structures built saved company thousands of hours
 
 **Food Service Aide** <br />
-_Fairview Lodge Nursing Home (April 2019 - April 2021)_
+_Fairview Lodge Nursing Home_ (April 2019 - April 2021)
 - Served meals to residents, cleaned dishes and eating areas
 - Provided specialized care for residents with varied needs
 - Received shipments and organized storage rooms
@@ -44,5 +44,9 @@ _McDonald's_ (January 2017 - August 2018)
 - Took orders and relayed them to the kitchen
 
 ### Projects
-Har har har
-yep
+
+**Stock Market Prediction** <br />
+_Machine Learning Algorithms and Twitter Sentiment Analysis_ 
+- Used historical stock data to predict closing prices using a variety of machine learning algorithms
+- Scraped tweets from CEOs of respective companies to see if sentiment could be used as a predictor
+- 
