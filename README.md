@@ -43,7 +43,7 @@ _McDonald's_ (January 2017 - August 2018)
 - Cooked and prepared meals
 - Took orders and relayed them to the kitchen
 
-### Projects/Papers
+## Projects/Papers
 
  <a href="pdfs/Stock Market Analysis.pdf"><font size="+0.5">Stock Market Prediction Using Tweet Sentiment </font> </a>  <br />
 _Machine Learning Algorithms and Twitter Sentiment Analysis_ 
