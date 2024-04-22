@@ -53,7 +53,7 @@ _Machine Learning, Sentiment Analysis_
 
 <a href="pdfs/RDDL_Sim.pdf"><font size="+0.5">Intervention on a Geographical Disease Model via RDDL </font> </a> <br />
 _Agent-Based Modeling_ 
-- Used RDDL (Relational Dynamic Influence Diagram Language) to create an agent-based disease model
+- Used RDDL (Relational Dynamic Influence Diagram Language) to create a geographical agent-based disease model
 - Agent and geography initialization completed with Python
 - Identified optimal mask/vaccine strategies to ensure hospitals operating below capacity
 
