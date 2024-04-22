@@ -45,25 +45,25 @@ _McDonald's_ (January 2017 - August 2018)
 
 ### Projects/Papers
 
-<a href="pdfs/Stock Market Analysis.pdf">Stock Market Prediction Using Tweet Sentiment </a> <br />
+ <font size="+2"> <a href="pdfs/Stock Market Analysis.pdf">Stock Market Prediction Using Tweet Sentiment </a> </font> <br />
 _Machine Learning Algorithms and Twitter Sentiment Analysis_ 
 - Used historical stock data to predict closing prices using a variety of machine learning algorithms
 - Scraped tweets from CEOs of respective companies to see if sentiment could be used to aid prediction
 - Predicted with moderate degree of success
 
-<a href="pdfs/RDDL_Sim.pdf">**Intervention on a Geographical Disease Model via RDDL** </a> <br />
+<a href="pdfs/RDDL_Sim.pdf">Intervention on a Geographical Disease Model via RDDL </a> <br />
 _Agent-Based Modeling_ 
 - Used RDDL (Relational Dynamic Influence Diagram Language) to create an agent-based disease model
 - Agent and geography initialization completed with Python
 - Identified optimal mask/vaccine strategies to ensure hospitals operating below capacity
 
-<a href="pdfs/Bad_Actors.pdf">**Effects of Bad Actors in a Geographical Disease Model via NetLogo** </a> <br />
+<a href="pdfs/Bad_Actors.pdf">Effects of Bad Actors in a Geographical Disease Model via NetLogo </a> <br />
 _Agent-Based Modeling, Sensitivity Analysis_ 
 - Used NetLogo to generate a geographical agent-based disease model
 - Agent and geography initialization completed with Python
 - Identified the intensity at which agents intentionally spreading disease affects its spread through sensitivity analysis
 
-<a href="pdfs/DiRA.pdf">**DiRA Reproducibility Challenge** </a> <br />
+<a href="pdfs/DiRA.pdf">DiRA Reproducibility Challenge </a> <br />
 _Image Recognition, CNNs, Deep Learning_ 
 - Reproduced the state-of-the-art semi-supervised image classification model, DiRA
 - Enganged in significant image pre-processing to improve the performance of classification
