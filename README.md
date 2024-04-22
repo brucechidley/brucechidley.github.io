@@ -12,7 +12,7 @@
   _Memorial University (August 2023)_
 
 - BComp, Computing, Mathematics, and Analytics <br />
-  _Queen's University (May 2023)_
+  _Queen's University (September 2018 - May 2023)_
 
 ## Work Experience
 **Business Intelligence Developer** <br />
