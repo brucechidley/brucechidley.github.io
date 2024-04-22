@@ -43,10 +43,22 @@ _McDonald's_ (January 2017 - August 2018)
 - Cooked and prepared meals
 - Took orders and relayed them to the kitchen
 
-### Projects
+### Projects/Papers
 
-<a href="pdfs/Stock Market Analysis.pdf">**Stock Market Prediction** </a> <br />
+<a href="pdfs/Stock Market Analysis.pdf">**Stock Market Prediction Using Tweet Sentiment** </a> <br />
 _Machine Learning Algorithms and Twitter Sentiment Analysis_ 
 - Used historical stock data to predict closing prices using a variety of machine learning algorithms
-- Scraped tweets from CEOs of respective companies to see if sentiment could be used as a predictor
-- 
+- Scraped tweets from CEOs of respective companies to see if sentiment could be used to aid prediction
+- Predicted with moderate degree of success
+
+<a href="pdfs/RDDL_Sim_Report.pdf">**Intervention on a Geographical Disease Model via RDDL** </a> <br />
+_Agent-Based Modeling_ 
+- Used RDDL (Relational Dynamic Influence Diagram Language) to create an agent-based disease model
+- Agent and geography initialization completed with Python
+- Identified optimal mask/vaccine strategies to ensure hospitals operating below capacity
+
+<a href="pdfs/RDDL_Sim_Report.pdf">**Effects of Bad Actors in a Geographical Disease Model via NetLogo** </a> <br />
+_Agent-Based Modeling, Sensitivity Analysis_ 
+- Used NetLogo to generate a geographical agent-based disease model
+- Agent and geography initialization completed with Python
+- Identified the intensity at which agents intentionally spreading disease affects its spread through sensitivity analysis
