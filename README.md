@@ -6,17 +6,17 @@
 
 ## Education							       		
 - MSc, Computing and AI<br />
-  _Queen's University (September 2023 - Present)_
+  _Queen's University_ (September 2023 - Present)
 
 - Summer School, Mathematical Modeling of Infectious Diseases<br />
-  _Memorial University (August 2023)_
+  _Memorial University_ (August 2023)
 
 - BComp, Computing, Mathematics, and Analytics <br />
-  _Queen's University (September 2018 - May 2023)_
+  _Queen's University_ (September 2018 - May 2023)
 
 ## Work Experience
 **Business Intelligence Developer** <br />
-_L3Harris WESCAM (May2021 - August 2022)_
+_L3Harris WESCAM_ (May2021 - August 2022)
 - Managed SQL Servers in SSMS covering database/schema level security, database/table/view creation and management, procedure/function creation and management, and query 
 optimization
 - ETL management using SSIS, and T-SQL via SQL Jobs
