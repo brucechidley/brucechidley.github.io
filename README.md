@@ -51,13 +51,13 @@ _Machine Learning Algorithms and Twitter Sentiment Analysis_
 - Scraped tweets from CEOs of respective companies to see if sentiment could be used to aid prediction
 - Predicted with moderate degree of success
 
-<a href="pdfs/RDDL_Sim_Report.pdf">**Intervention on a Geographical Disease Model via RDDL** </a> <br />
+<a href="pdfs/RDDL_Sim.pdf">**Intervention on a Geographical Disease Model via RDDL** </a> <br />
 _Agent-Based Modeling_ 
 - Used RDDL (Relational Dynamic Influence Diagram Language) to create an agent-based disease model
 - Agent and geography initialization completed with Python
 - Identified optimal mask/vaccine strategies to ensure hospitals operating below capacity
 
-<a href="pdfs/RDDL_Sim_Report.pdf">**Effects of Bad Actors in a Geographical Disease Model via NetLogo** </a> <br />
+<a href="pdfs/Bad_Actors.pdf">**Effects of Bad Actors in a Geographical Disease Model via NetLogo** </a> <br />
 _Agent-Based Modeling, Sensitivity Analysis_ 
 - Used NetLogo to generate a geographical agent-based disease model
 - Agent and geography initialization completed with Python
