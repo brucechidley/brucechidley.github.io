@@ -45,7 +45,7 @@ _McDonald's_ (January 2017 - August 2018)
 
 ### Projects/Papers
 
- <font size="+2"> <a href="pdfs/Stock Market Analysis.pdf">Stock Market Prediction Using Tweet Sentiment </a> </font> <br />
+ <a href="pdfs/Stock Market Analysis.pdf"><font size="+2">Stock Market Prediction Using Tweet Sentiment </font> </a>  <br />
 _Machine Learning Algorithms and Twitter Sentiment Analysis_ 
 - Used historical stock data to predict closing prices using a variety of machine learning algorithms
 - Scraped tweets from CEOs of respective companies to see if sentiment could be used to aid prediction
