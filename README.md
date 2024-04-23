@@ -12,7 +12,7 @@ _Master of Science, Computing/AI - Kingston, Ontario, Canada_ (September 2023 - 
 
 **Memorial University (Summer School)** <br />
   _Memorial University - Norris Point, Newfoundland, Canada_ (August 2023)
-- Studying population dynamics resulting from Lyme disease treatment and prevention
+- Studied population dynamics resulting from Lyme disease treatment and prevention
 
 **Queen's University (Undergraduate)** <br />
   _Bachelor of Computing (Honours), Computing, Mathematics, and Analytics - Kingston, Ontario, Canada_ (September 2018 - May 2023)
