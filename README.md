@@ -16,7 +16,7 @@
 
 ## Work Experience
 **Business Intelligence Developer** <br />
-_L3Harris WESCAM_ (May2021 - August 2022)
+_L3Harris WESCAM_ (May 2021 - August 2022)
 - Managed SQL Servers in SSMS covering database/schema level security, database/table/view creation and management, procedure/function creation and management, and query 
 optimization
 - ETL management using SSIS, and T-SQL via SQL Jobs
