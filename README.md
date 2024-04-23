@@ -43,7 +43,7 @@ _McDonald's_ (January 2017 - August 2018)
 - Cooked and prepared meals
 - Took orders and relayed them to the kitchen
 
-## Projects/Papers
+## Projects
 
 <a href="pdfs/Bad_Actors.pdf"><font size="+0.5">Effects of Bad Actors in a Geographical Disease Model via NetLogo </font> </a> <br />
 _Agent-Based Modeling, Sensitivity Analysis_ (April 2024)
@@ -74,7 +74,7 @@ _Machine Learning, Sentiment Analysis_ (April 2021)
 - Scraped tweets from CEOs of respective companies to see if sentiment could be used to aid prediction
 - Predicted with moderate degree of success
 
-<font size="+0.5">OntarioFish Android App </font> <br />
+<font size="+0.5">OntarioFish Android App </font>
 _App Development, SQL integration, Android Studio_ (August 2020)
 - Assisted in development of app in Android Studio to aid in the retrieval and understanding of national fishing regulations
 - Facilitated database creation with SQL
