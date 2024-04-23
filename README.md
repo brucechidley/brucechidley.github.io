@@ -68,6 +68,11 @@ _Image Recognition, CNNs, Deep Learning_ (December 2023)
 - Enganged in significant image pre-processing to improve the performance of classification
 - Implemented large-scale deep learning models with success
 
+<a href="pdfs/Lyme_Disease.pdf"><font size="+0.5">Topical Acaricides on Rodents as a One Health Intervention Against Lyme Disease </font> </a> <br />
+_Mathematical Modeling, Epidemiology, Sensitivity Analysis_ (August 2023)
+- Developed a mathematical model for controlling tick population via acaricide intervention in R
+- Explored consequences and validity of solution
+
 <font size="+0.5">Property Interest Level in New York City </font>
 _Statistical/Machine Learning, Exploratory Data Analysis_ (April 2023)
 - Compiled relevant regional data and performed in-depth data exploration
