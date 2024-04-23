@@ -1,18 +1,23 @@
 # Portfolio
 
-#### Technical Languages: <br /> Python, R for Statistical Computing, SQL, T-SQL, NetLogo, RDDL (Automated Planning)
-#### AI Experience: <br /> Machine Learning, Deep Learning, Statistical Learning, Computer Vision, NLP, Data Analysis, Spark
-#### Other: <br /> Git, Devops, Visual Studio, Microsoft Azure, Power BI, Data Warehousing, Agent-Based Modeling, Epidemiology, SSMS, SSIS, SSRS
+#### Languages: <br /> Python, R for Statistical Computing, Java, SQL, T-SQL, NetLogo, RDDL (Automated Planning)
+#### Research Focuses: <br /> Machine Learning, Statistical Learning, Deep Learning, Agent-Based Modeling, Epidemiology, Computer Vision, NLP, Data Analysis
+#### Other: <br /> Git, Devops, Visual Studio, Microsoft Azure, Power BI, SSMS, SSIS, SSRS, Spark
 
-## Education							       		
-- MSc, Computing and AI<br />
-  _Queen's University_ (September 2023 - Present)
+## Education					
+**Queen's University (Graduate)** <br />
+_Master of Science, Computing/AI - Kingston, Ontario, Canada_ (September 2023 - Present)
+- Cumulative GPA 4.3/4.3
+- Geographical Agent-Based Modeling, Sensitivity Analysis, Data Analytics
 
-- Summer School, Mathematical Modeling of Infectious Diseases<br />
-  _Memorial University_ (August 2023)
+**Memorial University (Summer School)** <br />
+  _Memorial University - Norris Point, Newfoundland, Canada_ (August 2023)
+- Studying population dynamics resulting from Lyme disease treatment and prevention
 
-- BComp, Computing, Mathematics, and Analytics <br />
-  _Queen's University_ (September 2018 - May 2023)
+**Queen's University (Undergraduate)** <br />
+  _Bachelor of Computing (Honours), Computing, Mathematics, and Analytics - Kingston, Ontario, Canada_ (September 2018 - May 2023)
+- Cumulative GPA 4.07/4.3
+- Advanced mathematics, statistics, data analytics, and machine learning
 
 ## Work Experience
 **Business Intelligence Developer** <br />
