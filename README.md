@@ -45,26 +45,26 @@ _McDonald's_ (January 2017 - August 2018)
 
 ## Projects/Papers
 
- <a href="pdfs/Stock Market Analysis.pdf"><font size="+0.5">Stock Market Prediction Using Tweet Sentiment </font> </a>  <br />
-_Machine Learning, Sentiment Analysis_ 
-- Used historical stock data to predict closing prices using a variety of machine learning algorithms
-- Scraped tweets from CEOs of respective companies to see if sentiment could be used to aid prediction
-- Predicted with moderate degree of success
-
-<a href="pdfs/RDDL_Sim.pdf"><font size="+0.5">Intervention on a Geographical Disease Model via RDDL </font> </a> <br />
-_Agent-Based Modeling_ 
-- Used RDDL (Relational Dynamic Influence Diagram Language) to create a geographical agent-based disease model
-- Agent and geography initialization completed with Python
-- Identified optimal mask/vaccine strategies to ensure hospitals operating below capacity
-
 <a href="pdfs/Bad_Actors.pdf"><font size="+0.5">Effects of Bad Actors in a Geographical Disease Model via NetLogo </font> </a> <br />
-_Agent-Based Modeling, Sensitivity Analysis_ 
+_Agent-Based Modeling, Sensitivity Analysis_ (April 2024)
 - Used NetLogo to generate a geographical agent-based disease model
 - Agent and geography initialization completed with Python
 - Identified the intensity at which agents intentionally spreading disease affects its spread through sensitivity analysis
 
+<a href="pdfs/RDDL_Sim.pdf"><font size="+0.5">Intervention on a Geographical Disease Model via RDDL </font> </a> <br />
+_Agent-Based Modeling_ (December 2023)
+- Used RDDL (Relational Dynamic Influence Diagram Language) to create a geographical agent-based disease model
+- Agent and geography initialization completed with Python
+- Identified optimal mask/vaccine strategies to ensure hospitals operating below capacity
+
 <a href="pdfs/DiRA.pdf"><font size="+0.5">DiRA Reproducibility Challenge </font> </a> <br />
-_Image Recognition, CNNs, Deep Learning_ 
+_Image Recognition, CNNs, Deep Learning_ (December 2023)
 - Reproduced the state-of-the-art semi-supervised image classification model, DiRA
 - Enganged in significant image pre-processing to improve the performance of classification
 - Implemented large-scale deep learning models with success
+
+<a href="pdfs/Stock Market Analysis.pdf"><font size="+0.5">Stock Market Prediction Using Tweet Sentiment </font> </a>  <br />
+_Machine Learning, Sentiment Analysis_ (April 2021)
+- Used historical stock data to predict closing prices using a variety of machine learning algorithms
+- Scraped tweets from CEOs of respective companies to see if sentiment could be used to aid prediction
+- Predicted with moderate degree of success
