@@ -52,7 +52,7 @@ _Agent-Based Modeling, Sensitivity Analysis_ (April 2024)
 - Identified the intensity at which agents intentionally spreading disease affects its spread through sensitivity analysis
 
 <a href="pdfs/RDDL_Sim.pdf"><font size="+0.5">Intervention on a Geographical Disease Model via RDDL </font> </a> <br />
-_Agent-Based Modeling_ (December 2023)
+_Agent-Based Modeling - Under review for publication at ICAPS 2024_ (December 2023)
 - Used RDDL (Relational Dynamic Influence Diagram Language) to create a geographical agent-based disease model
 - Agent and geography initialization completed with Python
 - Identified optimal mask/vaccine strategies to ensure hospitals operating below capacity
@@ -63,8 +63,19 @@ _Image Recognition, CNNs, Deep Learning_ (December 2023)
 - Enganged in significant image pre-processing to improve the performance of classification
 - Implemented large-scale deep learning models with success
 
+<font size="+0.5">Property Interest Level in New York City </font> <br />
+_Statistical/Machine Learning, Exploratory Data Analysis_ (April 2023)
+- Compiled relevant regional data and performed in-depth data exploration
+- Built several models to predict interest in a given property with a high degree of accuracy
+
 <a href="pdfs/Stock Market Analysis.pdf"><font size="+0.5">Stock Market Prediction Using Tweet Sentiment </font> </a>  <br />
 _Machine Learning, Sentiment Analysis_ (April 2021)
 - Used historical stock data to predict closing prices using a variety of machine learning algorithms
 - Scraped tweets from CEOs of respective companies to see if sentiment could be used to aid prediction
 - Predicted with moderate degree of success
+
+<font size="+0.5">OntarioFish Android App </font> <br />
+_App Development, SQL integration, Android Studio_ (August 2020)
+- Assisted in development of app in Android Studio to aid in the retrieval and understanding of national fishing regulations
+- Facilitated database creation with SQL
+- App published on Google Play Store, accumulated over 1000 downloads
