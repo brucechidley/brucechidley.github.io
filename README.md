@@ -57,7 +57,7 @@ _Agent-Based Modeling, Sensitivity Analysis_ (April 2024)
 - Identified the intensity at which agents intentionally spreading disease affects its spread through sensitivity analysis
 
 <a href="pdfs/RDDL_Sim.pdf"><font size="+0.5">Intervention on a Geographical Disease Model via RDDL </font> </a> <br />
-_Agent-Based Modeling - Under review for publication at ICAPS 2024_ (December 2023)
+_Agent-Based Modeling - Published and Presented at ICAPS 2024 and CCECE 2024_ (December 2023)
 - Used RDDL (Relational Dynamic Influence Diagram Language) to create a geographical agent-based disease model
 - Agent and geography initialization completed with Python
 - Identified optimal mask/vaccine strategies to ensure hospitals operating below capacity
