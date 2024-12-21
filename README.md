@@ -56,7 +56,7 @@ _McDonald's_ (January 2017 - August 2018)
 
 ## Projects
 
-<a href="pdfs/Thesis_Final.pdf"><font size="+0.5">A Framework Agnostic Method for Sensitivity Analysis and Parameter Specification on Agent-Based Disease Models </font> </a> <br />
+<a href="pdfs/Thesis-Final.pdf"><font size="+0.5">A Framework Agnostic Method for Sensitivity Analysis and Parameter Specification on Agent-Based Disease Models </font> </a> <br />
 _Agent-Based Modeling, Sensitivity Analysis_ (December 2024)
 - End-to-end case study on disease modeling best practices across four frameworks
 - Builds a system that facilitates automatic sensitivity analysis via a Python library
