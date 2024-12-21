@@ -2,11 +2,11 @@
 
 #### Languages: <br /> Python, R for Statistical Computing, Java, SQL, T-SQL, NetLogo, RDDL (Automated Planning)
 #### Research Focuses: <br /> Machine Learning, Statistical Learning, Deep Learning, Agent-Based Modeling, Epidemiology, Computer Vision, NLP, Data Analysis
-#### Other: <br /> Git, Devops, Visual Studio, Microsoft Azure, Power BI, SSMS, SSIS, SSRS, Spark
+#### Other: <br /> Git, Devops, Visual Studio, Microsoft Azure, Power BI, SSMS, SSIS, Snowflake, Spark
 
 ## Education					
 **Queen's University (Graduate)** <br />
-_Master of Science, Computing/AI - Kingston, Ontario, Canada_ (September 2023 - Present)
+_Master of Science, Computing/AI - Kingston, Ontario, Canada_ (September 2023 - December 2024)
 - Cumulative GPA 4.3/4.3
 - Geographical Agent-Based Modeling, Sensitivity Analysis, Data Analytics
 
@@ -20,6 +20,12 @@ _Master of Science, Computing/AI - Kingston, Ontario, Canada_ (September 2023 - 
 - Advanced mathematics, statistics, data analytics, and machine learning
 
 ## Work Experience
+**Teaching Assistant** <br />
+_Queen's University_ (September 2023 - December 2024
+- Assisted with Logic for Computer Science for three semesters
+- Marked deliverables and oversaw group projects
+- Assisted in course development
+
 **Business Intelligence Developer** <br />
 _L3Harris WESCAM_ (May 2021 - August 2022)
 - Managed SQL Servers in SSMS covering database/schema level security, database/table/view creation and management, procedure/function creation and management, and query 
@@ -49,6 +55,12 @@ _McDonald's_ (January 2017 - August 2018)
 - Took orders and relayed them to the kitchen
 
 ## Projects
+
+<a href="pdfs/Thesis_Final.pdf"><font size="+0.5">A Framework Agnostic Method for Sensitivity Analysis and Parameter Specification on Agent-Based Disease Models </font> </a> <br />
+_Agent-Based Modeling, Sensitivity Analysis_ (December 2024)
+- End-to-end case study on disease modeling best practices across four frameworks
+- Builds a system that facilitates automatic sensitivity analysis via a Python library
+- System uncovers most important parameters, allowing public health officials to quickly identify points of interest in disease models
 
 <a href="pdfs/Bad_Actors.pdf"><font size="+0.5">Effects of Bad Actors in a Geographical Disease Model via NetLogo </font> </a> <br />
 _Agent-Based Modeling, Sensitivity Analysis_ (April 2024)
