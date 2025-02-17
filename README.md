@@ -26,6 +26,7 @@ _i-Forget - Contact: Dr. Brent Zanke_ (January 2025 - Present)
 - Developed analysis processes to identify statistically significant trends
 - Assisted in development of AWS pipeline for processing genomic data
 - Played a crucial role in early development. In collaboration with Deloitte Canada to secure investment
+
 _Durable Mind Collective - Contact: Carli Kinnear_ (January 2025 - Present)
 - Charity aiming to preserve brain health for those at risk
 - Assisted in process automation by way of automatic report generation
