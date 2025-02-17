@@ -1,8 +1,8 @@
 # Portfolio
 
-#### Languages: <br /> Python, R for Statistical Computing, Java, SQL, T-SQL, NetLogo, RDDL (Automated Planning)
-#### Research Focuses: <br /> Machine Learning, Statistical Learning, Deep Learning, Agent-Based Modeling, Epidemiology, Computer Vision, NLP, Data Analysis
-#### Other: <br /> Git, Devops, Visual Studio, Microsoft Azure, Power BI, SSMS, SSIS, Snowflake, Spark
+#### Languages: <br /> Python, R for Statistical Computing, PDDL and RDDL (Automated Planning), SQL, T-SQL, NetLogo
+#### Research Focuses: <br /> Machine Learning, Statistical Learning, Hypothesis Testing, Deep Learning, Agent-Based Modeling, Epidemiology, Automated Planning, Computer Vision, NLP, Data Analytics, Genetic Analysis, Metagenomics
+#### Other: <br /> Git, Linux, Devops, Docker, Microsoft Azure, Power BI, SSMS, SSIS, Snowflake, Spark, AWS, Cloud Computing, CPU/GPU Clusters
 
 ## Education					
 **Queen's University (Graduate)** <br />
@@ -20,8 +20,18 @@ _Master of Science, Computing/AI - Kingston, Ontario, Canada_ (September 2023 - 
 - Advanced mathematics, statistics, data analytics, and machine learning
 
 ## Work Experience
+**Data Science Consulting** <br />
+_i-Forget - Contact: Dr. Brent Zanke_ (January 2025 - Present)
+- Genomics research Not-For-Profit aiming to detect/prevent Alzheimer's Disease via Human and intestinal bacteria DNA sequence analysis
+- Developed analysis processes to identify statistically significant trends
+- Assisted in development of AWS pipeline for processing genomic data
+- Played a crucial role in early development. In collaboration with Deloitte Canada to secure investment
+_Durable Mind Collective - Contact: Carli Kinnear_ (January 2025 - Present)
+- Charity aiming to preserve brain health for those at risk
+- Assisted in process automation by way of automatic report generation
+
 **Teaching Assistant** <br />
-_Queen's University_ (September 2023 - December 2024
+_Queen's University_ (September 2023 - December 2024)
 - Assisted with Logic for Computer Science for three semesters
 - Marked deliverables and oversaw group projects
 - Assisted in course development
